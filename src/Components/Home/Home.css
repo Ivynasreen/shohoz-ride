@@ -1,0 +1,11 @@
+.ride {
+    /* display: 'flex';
+    margin: '40px';
+    justify-content: 'space-between'; */
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   width: 400px;
+   margin: 30px;
+   padding: 30px;
+    
+}

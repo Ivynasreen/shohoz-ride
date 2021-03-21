@@ -1,0 +1,97 @@
+[{
+    "id": 1,
+    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyodFEm5BQVrvNVuum2Ax4W6ibe-9yy6ifHg&usqp=CAU",
+    "name": "bike ",
+    "pick" : "Mirpur",
+    "drop" : "Dhanmondi",
+    "capacity" : 2,
+    "price" : 40
+  }, {
+    "id": 1,
+    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyodFEm5BQVrvNVuum2Ax4W6ibe-9yy6ifHg&usqp=CAU",
+    "name": "bike",
+    "pick" : "Mirpur",
+    "drop" : "Dhanmondi",
+    "capacity" : 2,
+    "price" : 40
+  }, {
+    "id": 1,
+    "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyodFEm5BQVrvNVuum2Ax4W6ibe-9yy6ifHg&usqp=CAU",
+    "name": "bike ",
+    "pick" : "Mirpur",
+    "drop" : "Dhanmondi",
+    "capacity" : 2,
+    "price" : 40
+  }, {
+    "id": 2,
+    "image": "https://image.freepik.com/free-vector/three-dimensional-image-green-car-isolated-white-background_53876-40876.jpg",
+    "name": "car",
+    "pick" : "Mohakhali",
+    "drop" : "Gulshan",
+    "capacity" : 4,
+    "price" : 70
+    }, {
+    "id": 2,
+    "image": "https://image.freepik.com/free-vector/three-dimensional-image-green-car-isolated-white-background_53876-40876.jpg",
+    "name": "car",
+    "pick" : "Mohakhali",
+    "drop" : "Gulshan",
+    "capacity" : 4,
+    "price" : 70
+    }, {
+    "id": 2,
+    "image": "https://image.freepik.com/free-vector/three-dimensional-image-green-car-isolated-white-background_53876-40876.jpg",
+    "name": "car",
+    "pick" : "Mohakhali",
+    "drop" : "Gulshan",
+    "capacity" : 4,
+    "price" : 70
+    }, {
+    "id": 3,
+    "image": "https://www.uttaramotorsltd.com/wp-content/uploads/2015/12/LT-Bus.png" ,
+    "name": "bus",
+    "pick" : "Bashundhara",
+    "drop" : "Uttara",
+    "capacity" : 6,
+    "price" : 20   
+    }, {
+    "id": 3,
+    "image": "https://www.uttaramotorsltd.com/wp-content/uploads/2015/12/LT-Bus.png" ,
+    "name": "bus",
+    "pick" : "Bashundhara",
+    "drop" : "Uttara",
+    "capacity" : 6,
+    "price" : 20   
+    }, {
+    "id": 3,
+    "image": "https://www.uttaramotorsltd.com/wp-content/uploads/2015/12/LT-Bus.png" ,
+    "name": "bus",
+    "pick" : "Bashundhara",
+    "drop" : "Uttara",
+    "capacity" : 6,
+    "price" : 20   
+    }, {
+    "id": 4,
+    "image" : "https://st2.depositphotos.com/2395803/8709/i/950/depositphotos_87091452-stock-photo-train-isolated-on-white-background.jpg",
+    "name": "train",
+    "pickfrom" : "Komlapur",
+    "pickto" : "Gazipur",
+    "capacity" : 7,
+    "price" : 30    
+    }, {
+    "id": 4,
+    "image" : "https://st2.depositphotos.com/2395803/8709/i/950/depositphotos_87091452-stock-photo-train-isolated-on-white-background.jpg",
+    "name": "train",
+    "pickfrom" : "Mohakhali",
+    "pickto" : "Gulshan",
+    "capacity" : 7,
+    "price" : 30
+    }, {
+    "id": 4,
+    "image" : "https://st2.depositphotos.com/2395803/8709/i/950/depositphotos_87091452-stock-photo-train-isolated-on-white-background.jpg",
+    "name": "train",
+    "pickfrom" : "Mohakhali",
+    "pickto" : "Gulshan",
+    "capacity" : 7,
+    "price" : 30                  
+  }]

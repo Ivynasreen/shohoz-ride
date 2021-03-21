@@ -1,0 +1,20 @@
+.button {
+    background-color: goldenrod;
+    color: white;
+    padding: 5px 3px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+}
+.rides {
+    border : 10px solid white;
+    box-shadow: 10px 10px 10px lightgrey;
+    border-radius: 10px;
+}
+.rides h3 {
+    text-transform: uppercase;
+}
